@@ -2,6 +2,10 @@ body {
     background-color: rgb(186, 231, 214);
 }
 
+h1 {
+    margin: 0;
+}
+
 .center-column {
     background-color: rgb(247, 247, 243);
     margin-top: 80px;
